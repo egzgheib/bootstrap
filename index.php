@@ -54,9 +54,9 @@ $conn->close();
   <title>Porfolio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
-  <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>  
   <script src="./js/bootstrap.min.js"></script>
   
@@ -626,7 +626,7 @@ $conn->close();
         <td>
            <span class="glyphicon glyphicon-envelope">   </span>
         </td>
-        <td> <a href="http://www.istisharat.com">www.istisharat.com</a></td>
+        <td> <a href="https://www.istisharat.com">www.istisharat.com</a></td>
         
         </tr>
         <tr>
@@ -682,7 +682,7 @@ $conn->close();
         <td>
            <span class="glyphicon glyphicon-envelope">   </span>
         </td>
-        <td> <a href="http://www.ibs-softsolutions.com">www.ibs-softsolutions.com</a></td>
+        <td> <a href="https://www.ibs-softsolutions.com">www.ibs-softsolutions.com</a></td>
         
         </tr>
         <tr>
@@ -733,7 +733,7 @@ $conn->close();
         <td>
            <span class="glyphicon glyphicon-envelope">   </span>
         </td>
-        <td> <a href="http://www.ctserv.net">www.ctserv.net</a></td>
+        <td> <a href="https://www.ctserv.net">www.ctserv.net</a></td>
         
         </tr>
         <tr>
@@ -789,7 +789,7 @@ $conn->close();
 <div id="googleMap" style="height:400px;width:100%;"></div>
 
 <!-- Add Google Maps -->
-<script src="http://maps.googleapis.com/maps/api/js"></script>
+<script src="https://maps.googleapis.com/maps/api/js"></script>
 <script>
 var myCenter = new google.maps.LatLng( 34.01356, 35.78322);
 
