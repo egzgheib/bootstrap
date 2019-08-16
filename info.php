@@ -29,7 +29,7 @@ if ($result->num_rows > 0)
 	
 	$var .= "</table>";
 	
-	echo $var;
+	echo $var;     
 } 
 else 
 {
